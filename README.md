@@ -1,2 +1,7 @@
 # aa-explorer
-Rust-based Block Explorer for EIP-4337 Account Abstraction
+
+Block Explorer for EIP-4337 Account Abstraction
+
+> ⚠️ **WARNING**
+>
+> This is WIP & rapidly changing, Use at your own risk ❗
